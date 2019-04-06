@@ -60,7 +60,7 @@
 | Title | link |
 | ------------- |:-------------|
 | 메루카리 | https://tech.mercari.com/ |
-| Yahoo! JAPAN Tech Blog | https://techblog.yahoo.co.jp/ |
+| 야후 | https://techblog.yahoo.co.jp/ |
 | 라인 | https://engineering.linecorp.com/ja/blog/ |
 | 라쿠텐 | https://www.facebook.com/RakutenTech |
 | DeNA | https://engineer.dena.jp/ |
@@ -72,7 +72,7 @@
 | Title | link |
 | ------------- |:-------------|
 | 최강 경제경영 블로거 리스트 | http://blog.naver.com/PostView.nhn?blogId=hong8706&logNo=220495506632 |
-| 국내 개발 블로그 모음(only 실명으로) | https://github.com/sarojaba/awesome-devblog |
+| 한국 개발 블로그 모음 | https://github.com/sarojaba/awesome-devblog |
 | 인사이트 주는 사이트 및 개인 블로그 | http://insidestory.kr/5101 |
 | SLiPP위키 | https://www.slipp.net/wiki/ |
 
