@@ -3,6 +3,11 @@
 일본에서 생활하는 엔지니어를 위한 각종 링크모음 입니다.  
 추가하고 싶은 내용이 있으시면 PR로 부탁드립니다.
 
+# Meetup
+- Kodeveloper: https://kodeveloper.com
+- https://connpass.com/
+- https://www.meetup.com/ja-JP/
+- https://www.doorkeeper.jp/
 
 # 스터디 장소
 - 스페이스마켓: https://www.spacemarket.com
@@ -47,19 +52,17 @@
 
 
 # 기타 모음
-- 최강 경제경영 블로거 리스트: http://blog.naver.com/PostView.nhn?blogId=hong8706&logNo=220495506632
-- 한국 개발 블로그 모음: https://github.com/sarojaba/awesome-devblog
+- 시장을 보는 눈: http://blog.naver.com/PostList.nhn?blogId=hong8706
 - 인사이트 주는 사이트 및 개인 블로그: http://insidestory.kr/5101
 - SLiPP위키: https://www.slipp.net/wiki/
 - OmniFocus2사용법: http://blog.naver.com/hasajon/220683688228
-- Awesome Devblog Feed Reader for Developers: https://awesome-devblog.herokuapp.com
-- 정지훈: https://brunch.co.kr/@jihoonjeong
+- 어썸 데브 블로그: https://awesome-devblog.netlify.com/
 - 에스티마의 인터넷이야기: https://estimastory.com
 - 허진호: https://medium.com/@hur
 - Live & Venture: https://liveandventure.com
 - Yann Heo: https://medium.com/@yannheo
 - SoftBank Ventures Korea: http://blog.softbank.co.kr
-- Kodeveloper: https://kodeveloper.com
+
 
 ## 유용한 사이트
 - 絵文字ジェネレーター: https://emoji.pine.moe/#!/
