@@ -8,6 +8,7 @@
 - https://connpass.com/
 - https://www.meetup.com/ja-JP/
 - https://www.doorkeeper.jp/
+- https://www.eventbrite.com
 
 # 스터디 장소
 - 스페이스마켓: https://www.spacemarket.com
