@@ -10,6 +10,21 @@
 - https://www.doorkeeper.jp/
 - https://www.eventbrite.com
 
+# 유저그룹
+- JAWS-UG(aws): https://jaws-ug.jp/
+- JJUG(Java): http://www.java-users.jp/
+- JSUG(Spring): http://www.springframework.jp/
+
+
+# 컨퍼런스 & 이벤트
+- DevOps Day Tokyo: https://www.devopsdaystokyo.org/
+- Product Manager Conference: https://pmconfjp.doorkeeper.jp/
+- JAWS DAYS: https://twitter.com/jawsdays
+- YAHOO!JAPAN Tech Conference: https://techconference.yahoo.co.jp/
+- Rakuten Tech Conference: https://tech.rakuten.co.jp/
+- LINE DEVELOPER DAY: https://linedevday.linecorp.com/jp/2018/
+
+
 # 스터디 장소
 - 스페이스마켓: https://www.spacemarket.com
 - 스페이스: https://www.spacee.jp
