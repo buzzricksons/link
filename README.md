@@ -9,6 +9,7 @@
 - https://www.meetup.com/ja-JP/
 - https://www.doorkeeper.jp/
 - https://www.eventbrite.com
+- https://techplay.jp/
 
 # 유저그룹
 - JAWS-UG(aws): https://jaws-ug.jp/
