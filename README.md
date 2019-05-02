@@ -85,4 +85,5 @@
 ## 유용한 사이트
 - 絵文字ジェネレーター: https://emoji.pine.moe/#!/
 - hatchful logo: https://hatchful.shopify.com
+- 아스키 emoji변환: http://patorjk.com/software/taag/
 - LGTM갤러리: http://www.lgtm.in/
