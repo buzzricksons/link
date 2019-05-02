@@ -6,6 +6,7 @@
 # Meetup
 - 도각코: https://www.facebook.com/groups/togakco
 - 일본에서 일하는 한국인 개발자 모임: https://kodeveloper.com
+- Korean Meetup &:  https://www.facebook.com/groups/kmeetup/
 - https://connpass.com/
 - https://www.meetup.com/ja-JP/
 - https://www.doorkeeper.jp/
