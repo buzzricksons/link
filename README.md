@@ -67,7 +67,12 @@
 - 라쿠텐: https://www.facebook.com/RakutenTech
 - DeNA: https://engineer.dena.jp/
 - 사이버에이전트: https://developers.cyberagent.co.jp/blog
-- DMN: http://media.mctinc.jp/blog
+- DMN: https://inside.dmm.com/archive/category/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC
+- Cookpad: https://techlife.cookpad.com/
+- KDDI Cloud Blog: http://cloudblog.kddi.com/
+- 리쿠르트: https://atl.recruit-tech.co.jp/blog/
+- GREE: https://labs.gree.jp/blog/
+- Hatena: https://developer.hatenastaff.com/
 
 
 # 기타 모음
