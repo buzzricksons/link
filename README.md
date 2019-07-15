@@ -13,6 +13,10 @@
 - https://www.eventbrite.com
 - https://techplay.jp/
 
+# Slack
+- 일본에서 일하는 한국인 개발자 모임: https://kodevelopers.slack.com
+- 일본에서 일하는 사람들의 모임: https://it-in-japan.slack.com
+
 # 유저그룹
 - JAWS-UG(aws): https://jaws-ug.jp/
 - JJUG(Java): http://www.java-users.jp/
